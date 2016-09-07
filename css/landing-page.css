@@ -157,7 +157,7 @@ h6 {
 }
 .content-section-d {
     padding: 50px 0;
-    background-color: #3F4C66;
+    background-color: rgb(38,40,62);
     color: #ffffff;
     -webkit-box-shadow: inset 0 10px 10px -10px rgba(0,0,0,0.3);
     -moz-box-shadow: inset 0 10px 10px -10px rgba(0,0,0,0.3);
